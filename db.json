@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "firstName": "vishnu",
+      "userName": "anu",
+      "contact": "0769010414",
+      "lastName": "varathan",
+      "gender": "male",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "firstName": "Yash",
+      "userName": "Yash",
+      "contact": "0769010414",
+      "lastName": "varathan",
+      "gender": "Female",
+      "password": "vishnu",
+      "id": 2
+    },
+    {
+      "firstName": "anu",
+      "userName": "anu",
+      "contact": "076005758",
+      "lastName": "yash",
+      "gender": "female",
+      "password": "anu",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

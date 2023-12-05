@@ -1,0 +1,40 @@
+.outer{
+    height: 100vh;
+    background: linear-gradient(to top, #b2fab1 50%, #ddfadd 90%) no-repeat;
+}
+.input-feild-signup{
+    border-radius: 5px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid white;
+    color: #54B4D3;
+}
+.input-feild-login{
+    border-radius: 5px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid white;
+    color: #f0ad4e;
+}
+.input-feild-error{
+    border: 1px solid red;
+    color: red;
+}
+input[type='text'],
+input[type='password']{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 70%;
+  
+}
+
+.fa-eye-slash.btn{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}

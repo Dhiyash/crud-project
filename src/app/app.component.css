@@ -1,0 +1,4 @@
+.outer{
+    height: 100vh;
+    background: linear-gradient(to top, #c9fbff 50%, #7ee7f7 90%) no-repeat;
+}

@@ -1,0 +1,35 @@
+.outer{
+    height: 100vh;
+    background: linear-gradient(to top, #b2fab1 50%, #ddfadd 90%) no-repeat;
+}
+
+#tablecss {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    max-height: 10%;
+    margin: auto; 
+    
+    
+  }
+  
+  #tablecss td, #tablecss th {
+    border: none;
+    padding: 8px;
+  }
+  
+  #tablecss tr:nth-child(){background-color: none;}
+  
+  #tablecss tr:hover {background-color:   none  ;}
+  
+
+  #tablecss th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: none;
+    color: #58d68d;;
+  }
+  .themecolor{
+    color: #58d68d;;
+  }

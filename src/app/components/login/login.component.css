@@ -1,0 +1,73 @@
+.outer{
+    height: 100vh;
+    background: linear-gradient(to top, #c9fbff 50%, #7ee7f7 90%) no-repeat;
+}
+.panel-heading{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#forget{
+    min-width: 100px;
+    margin-left: auto;
+    text-decoration: none;
+    cursor: pointer;
+}
+h3{text-align: center;}
+a:hover{
+    text-decoration: none;
+}
+
+.form-inline label{
+    padding-left: 10px;
+    margin: 0;
+    cursor: pointer;
+}
+.btn{
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.panel{
+    min-height: 38px;
+    max-height: 600px;
+    box-shadow: 20px 20px 80px rgb(251, 249, 249);
+    border-radius: 12px;
+    margin-top: 30px;
+}
+
+.input-feild-signup{
+    border-radius: 5px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid white;
+    color: #54B4D3;
+}
+.input-feild-login{
+    border-radius: 5px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid white;
+    color: #14A44D;
+}
+.input-feild-error{
+    border: 1px solid red;
+    color: red;
+}
+input[type='text'],
+input[type='password']{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    width: 70%;
+  
+}
+
+.fa-eye-slash.btn{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
